@@ -1,0 +1,1 @@
+data_hub_api_endpoint='http://ec2-52-35-153-253.us-west-2.compute.amazonaws.com/get_all_properties';
