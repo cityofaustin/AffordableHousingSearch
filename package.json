@@ -1,7 +1,8 @@
 {
-  "name": "affordablehousing-search-generator",
+  "name": "affordable-housing-search",
   "version": "0.0.0",
   "private": true,
+  "author": "Frederick Shotlow for City of Austin",
   "scripts": {
     "start": "node ./bin/www",
     "dev": "nodemon ./bin/www"
